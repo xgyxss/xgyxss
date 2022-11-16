@@ -3,7 +3,7 @@
 <!-- my-icons -->
 
 <p align="center">
-    <a href="https://github.com/xgyxss/xgyxss"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/xgyxss/xgyxss"><img src="https://img.shields.io/badge/status-updating&learning-brightgreen.svg"></a>
     <a href="https://github.com/xgyxss/xgyxss/graphs/contributors"><img src="https://img.shields.io/github/contributors/xgyxss/xgyxss?color=blue"></a>
     <a href="https://github.com/xgyxss/xgyxss/stargazers"><img src="https://img.shields.io/github/stars/xgyxss/xgyxss.svg?logo=github"></a>
     <a href="https://github.com/xgyxss/xgyxss/network/members"><img src="https://img.shields.io/github/forks/xgyxss/xgyxss.svg?color=blue&logo=github"></a>
