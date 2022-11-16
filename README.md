@@ -1,5 +1,6 @@
 ### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/xgyxss-github-readme)
 <img src="https://github-readme-stats.vercel.app/api?username=xgyxss&show_icons=true&theme=dracula" />
+### Wakatime Week Stats
 ![xgyxss's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgyxss&layout=compact)
 [![xgyxss's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xgyxss)](https://github.com/anuraghazra/github-readme-stats)
 
