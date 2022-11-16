@@ -1,6 +1,6 @@
 ### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/xgyxss-github-readme)
 <img src="https://github-readme-stats.vercel.app/api?username=xgyxss&show_icons=true&theme=dracula" />
-[![xgyxss' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xgyxss)](https://github.com/xgyxss/xgyxss.github.io)
+![xgyxss' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xgyxss)
 
 <!--
   <img src="https://github-readme-stats.vercel.app/api?username=xgyxss&show_icons=true&theme=dracula&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false" />
