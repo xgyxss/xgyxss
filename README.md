@@ -3,6 +3,9 @@
 
 <!--
   <img src="https://github-readme-stats.vercel.app/api?username=xgyxss&show_icons=true&theme=dracula&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false" />
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xgyxss)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **xgyxss/xgyxss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
