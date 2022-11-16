@@ -1,12 +1,63 @@
-### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/xgyxss-github-readme)
+![](assets/Bottom_up.svg)
+
+<!-- my-icons -->
+
+<p align="center">
+    <a href="https://github.com/xgyxss/xgyxss"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/xgyxss/xgyxss/graphs/contributors"><img src="https://img.shields.io/github/contributors/xgyxss/xgyxss?color=blue"></a>
+    <a href="https://github.com/xgyxss/xgyxss/stargazers"><img src="https://img.shields.io/github/stars/xgyxss/xgyxss.svg?logo=github"></a>
+    <a href="https://github.com/xgyxss/xgyxss/network/members"><img src="https://img.shields.io/github/forks/xgyxss/xgyxss.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=xgyxss.xgyxss" alt="visitors"/>
+  	<!--
+		<img src="https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/xgyxss-github-readme" alt="visitors"/>
+		-->
+</p>
+
+<!--   my-ticker -->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+xgyxss;+Welcome+to+My+Profile!;Always+learning+new+things+;Software-development+learning+enthusiast)
 
-|                           xgyxss' GitHub Stats                           |                           Most Used Languages                           |
+<!--   GitHub stats graph -->
+
+|                     xgyxss' GitHub Stats                     |                     Most Used Languages                      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![xgyxss' GitHub Stats](https://github-readme-stats.vercel.app/api?username=xgyxss&show_icons=true&theme=dracula) | ![xgyxss's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgyxss&layout=compact)|
+| ![xgyxss' GitHub Stats](https://github-readme-stats.vercel.app/api?username=xgyxss&show_icons=true&theme=dracula) | ![xgyxss's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgyxss&layout=compact) |
+
+<!--  my-skils -->
+
+<!--  learning -->
+
+<!--   GitHub contributiion graph -->
 
 ![xgyxss' GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=xgyxss&hide_border=true&theme=redical)
+
+# *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
+
+![](assets/Bottom_down.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
