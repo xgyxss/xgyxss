@@ -29,9 +29,13 @@
 
 <!--   GitHub contributiion graph -->
 
-![xgyxss' GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=xgyxss&hide_border=true&theme=redical)
+<!--   ![xgyxss' GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=xgyxss&hide_border=true&theme=redical) -->
 
 # *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
+
+If these projects help to increase your productivity, you can give me a cup of coffee :) 
+
+[![Donate](https://cdn.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/xgyxss)
 
 ![](assets/Bottom_down.svg)
 
